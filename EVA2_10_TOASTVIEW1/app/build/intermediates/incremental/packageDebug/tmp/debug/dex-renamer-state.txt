@@ -1,0 +1,7 @@
+#Sun Apr 05 04:20:40 MDT 2020
+base.0=C\:\\Users\\irman\\Documents\\appsMov1\\EVA2_10_TOASTVIEW1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\irman\\Documents\\appsMov1\\EVA2_10_TOASTVIEW1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
